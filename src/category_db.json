@@ -1,0 +1,26 @@
+{
+  "descriptions": [
+    "oakhurst",
+    "pleasanton",
+    "san ramon",
+    "dublin",
+    "amazon",
+    "costco"
+  ],
+  "business_labels": [
+    "Oakhurst",
+    "Personal",
+    "Personal",
+    "Personal",
+    "",
+    ""
+  ],
+  "retailer_labels": [
+    "",
+    "",
+    "",
+    "",
+    "Amazon",
+    "Costco"
+  ]
+}
