@@ -2,6 +2,13 @@
 
 A tool for managing and categorizing financial transactions with automatic and manual labeling.
 
+### Accessing the tool with Binder
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/KabirDubey/pnl/HEAD
+
+ The interactive notebook is in `transaction_manager.ipynb`
+
 ## Features
 
 - **CSV Processing**: Import transaction data from CSV files with a standardized format
@@ -60,17 +67,6 @@ The output will add two additional columns:
 ## Web Deployment
 
 You can deploy this tool to the web using:
-
-### Binder
-
-1. Create a `requirements.txt` file with the necessary dependencies
-2. Push your project to a GitHub repository
-3. Create a Binder link to your repository
-
-### Streamlit
-
-1. Create a Streamlit version of the interface (see `src/streamlit_app.py`)
-2. Deploy to Streamlit Cloud or your own server
 
 ## License
 
