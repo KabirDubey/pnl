@@ -4,8 +4,7 @@ A tool for managing and categorizing financial transactions with automatic and m
 
 ### Accessing the tool with Binder
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/KabirDubey/pnl/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KabirDubey/pnl/HEAD)
 
  The interactive notebook is in `transaction_manager.ipynb`
 
