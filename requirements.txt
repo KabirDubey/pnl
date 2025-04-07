@@ -4,4 +4,3 @@ matplotlib>=3.2.0
 ipywidgets>=7.5.0
 streamlit>=1.10.0
 jupyter>=1.0.0
-difflib>=0.0.0
